@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin aayushs-air-3.wireless-1x.unc.edu 19.6.0 Darwin Kernel Version 19.6.0: Sun Jul  5 00:43:10 PDT 2020; root:xnu-6153.141.1~9/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.24.3 (Apple Git-128)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Jul  5 2020 01:22:14)
+CURL:	[/usr/bin/curl] curl 7.64.1 (x86_64-apple-darwin19.0) libcurl/7.64.1 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.39.2
+NODE:	[/Users/aayushmehra/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
